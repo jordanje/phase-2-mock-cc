@@ -1,5 +1,6 @@
 import React from "react";
 import Search from "./Search";
+import Filter from "./Filter";
 
 function Header({searchValue, handleSearchChange, handleSubmit}) {
   return (
